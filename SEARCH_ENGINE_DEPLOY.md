@@ -45,7 +45,7 @@ https://engineering-tech-blog.pages.dev/
 Sitemap: https://engineering-tech-blog.pages.dev/sitemap.xml
 ```
 
-`sitemap.xml` 里的所有 `https://example.github.io/engineering-tech-blog/` 也要改成真实网址。
+`sitemap.xml` 里的所有 `https://lonce28.github.io/engineering-tech-blog/` 也要改成真实网址。
 
 ## 搜索引擎提交
 
