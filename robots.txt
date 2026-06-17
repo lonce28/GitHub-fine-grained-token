@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://example.github.io/engineering-tech-blog/sitemap.xml
