@@ -262,6 +262,17 @@ a:hover {
   margin: 16px 0;
 }
 
+.table-wrap {
+  width: 100%;
+  overflow-x: auto;
+  margin: 16px 0;
+}
+
+.table-wrap table {
+  min-width: 720px;
+  margin: 0;
+}
+
 .article th,
 .article td {
   border: 1px solid var(--line);
