@@ -11,7 +11,7 @@
 免费地址格式：
 
 ```text
-https://你的用户名.github.io/engineering-tech-blog/
+https://你的用户名.github.io/GitHub-fine-grained-token/
 ```
 
 适合长期维护、文章持续更新、后续绑定独立域名。
@@ -45,7 +45,7 @@ https://engineering-tech-blog.pages.dev/
 Sitemap: https://engineering-tech-blog.pages.dev/sitemap.xml
 ```
 
-`sitemap.xml` 里的所有 `https://lonce28.github.io/engineering-tech-blog/` 也要改成真实网址。
+`sitemap.xml` 里的所有 `https://lonce28.github.io/GitHub-fine-grained-token/` 也要改成真实网址。
 
 ## 搜索引擎提交
 

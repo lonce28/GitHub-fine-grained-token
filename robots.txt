@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://lonce28.github.io/engineering-tech-blog/sitemap.xml
+Sitemap: https://lonce28.github.io/GitHub-fine-grained-token/sitemap.xml
